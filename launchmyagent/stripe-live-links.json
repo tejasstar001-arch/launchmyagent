@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OpenClaw 24/7 Starter Kit",
+    "product_id": "prod_U3zVNpYod2LEJk",
+    "price_id": "price_1T5rWYHkPtoML5vdgjoyctcM",
+    "payment_link": "https://buy.stripe.com/14A5kD8iz2Anc4p6ZffEk01"
+  },
+  {
+    "name": "Claude Code Solo Builder Kit",
+    "product_id": "prod_U3zVywg3Pzuiz7",
+    "price_id": "price_1T5rWZHkPtoML5vdpf6vA4zB",
+    "payment_link": "https://buy.stripe.com/eVq28rdCT8YL1pLbfvfEk02"
+  },
+  {
+    "name": "AI Agent Security Guardrails Pack",
+    "product_id": "prod_U3zV1YNcfZFdCj",
+    "price_id": "price_1T5rWaHkPtoML5vd2i3KKlUx",
+    "payment_link": "https://buy.stripe.com/6oUeVd56n8YLgkFcjzfEk03"
+  }
+]
