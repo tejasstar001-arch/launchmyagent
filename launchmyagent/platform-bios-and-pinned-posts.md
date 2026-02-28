@@ -3,7 +3,7 @@
 ## Universal Brand Text
 - Name: LaunchMyAgent
 - Tagline: Launch secure AI agents in hours.
-- Support: tejasstar001@outlook.com
+- Support: tejasstar001@gmail.com
 
 ## TikTok
 Bio: Secure AI agent starter kits for individuals. Launch in hours, not weeks.

@@ -16,7 +16,7 @@ Our approach is simple:
 - Add basic guardrails
 - Improve weekly based on outcomes
 
-Support: tejasstar001@outlook.com
+Support: tejasstar001@gmail.com
 
 ## First Featured Post
 If you’re new to AI agents, don’t overbuild.

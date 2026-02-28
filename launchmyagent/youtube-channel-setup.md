@@ -10,7 +10,7 @@ This channel shares practical tutorials, starter workflows, and beginner-safe se
 
 Start simple. Stay secure. Ship useful workflows.
 
-Support: tejasstar001@outlook.com
+Support: tejasstar001@gmail.com
 
 ## Playlist Structure
 1. Start Here (Beginner Setup)
